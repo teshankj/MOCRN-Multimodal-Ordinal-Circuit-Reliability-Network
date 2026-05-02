@@ -1,0 +1,12 @@
+.venv/
+# Data and Models
+data/
+*.pth
+*.csv
+*.png
+*.txt
+*.log
+
+# Python
+__pycache__/
+.ipynb_checkpoints/

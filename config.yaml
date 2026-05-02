@@ -1,0 +1,16 @@
+# Input/Output Paths
+data:
+  circuits:
+    RECNEW: "data/RECNEW.txt"
+    DPKNEW1: "data/DPKNEW.txt"
+    DCNEW: "data/DCNEW.txt"
+  save_dir: "outputs"
+
+# Training Hyperparameters
+training:
+  epochs: 50
+  batch_size: 16
+  lr: 0.0003
+  patience: 10
+  k_folds: 5
+  device: "cpu" # Set to "cpu" if GPU is unavailable

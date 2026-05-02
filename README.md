@@ -124,5 +124,3 @@ The framework is designed to provide high-fidelity reliability metrics, specific
 *   **Fault Identification Accuracy**: For categorical fault classification.
 *   **Degradation MAE**: Mean Absolute Error for estimating component wear-and-tear.
 *   **Uncertainty Quantification**: Using evidential deep learning to assess prediction confidence.
-
-How are the current MAE results trending across your different circuit models?

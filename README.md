@@ -123,4 +123,3 @@ If you use this code or the MOCRN framework in your research, please cite the fo
 The framework is designed to provide high-fidelity reliability metrics, specifically:
 *   **Fault Identification Accuracy**: For categorical fault classification.
 *   **Degradation MAE**: Mean Absolute Error for estimating component wear-and-tear.
-*   **Uncertainty Quantification**: Using evidential deep learning to assess prediction confidence.

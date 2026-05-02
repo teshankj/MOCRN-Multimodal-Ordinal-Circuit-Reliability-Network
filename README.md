@@ -28,7 +28,7 @@ MOCRN/
 ├── experiments/            # Execution scripts
 │   ├── train.py            # K-fold training and validation pipeline
 │   └── feature_analysis.py # Robust consensus feature importance
-├── data/                   # LTSpice .asc simulation files
+├── data/                   # LTSpice .asc simulations output .txt datafiles
 ├── outputs/                # Model checkpoints (.pth) and metrics
 ├── config.yaml             # Global paths and hyperparameters
 └── requirements.txt        # Environment dependencies
